@@ -1,0 +1,72 @@
+body{
+	padding-top: 70px;
+	font-family: Lato;
+}
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+}
+.table, th, td{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border:  1px solid #dee2e6;
+}
+th{
+    background: #2c3e50;
+    color: #FFFFFF;
+}
+
+#recherche{
+	padding-top: 0px;
+	padding-bottom: 30px;
+}
+
+.wrapper{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.btn-primary{
+	background: #2c3e50; 
+	border-color: #2c3e50; 
+}
+
+.navbar-expand-lg{
+	background: #2c3e50; 
+}
+
+.jumbotron{
+	color : #2c3e50;
+	margin-top: 50px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: #FFFFFF;
+	font-size: 17px;
+	
+}
+
+
+.scrollable-menu {
+    height: auto;
+    max-height: 100px;
+    overflow-x: hidden;
+}
+h2 {
+	text-decoration: underline;
+	text-underline-position: under;
+	padding-bottom : 30px;
+}
+h4 {
+	margin-bottom : 20px;
+}
+.jumbotron h5 {
+	text-align : center;
+}
+.row .col-md-6 .jumbotron h1 {
+	text-align: center;
+}
